@@ -1,10 +1,10 @@
 # [3/5] Visualize Data with a Heat Map
 
-**SELAMAT!** kamu sudah berhasil menyelesaikan project kedua [Visualize Data with a Heat Map](https://github.com/dipintoo/freeCodeCamp_D3-Scatterplot-Graph). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax) dari freeCodeCamp!
+**SELAMAT!** kamu sudah berhasil menyelesaikan project kedua [Visualize Data with a Scatterplot Graph](https://github.com/dipintoo/freeCodeCamp_D3-Scatterplot-Graph). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax) dari freeCodeCamp!
 
 ## Teknologi yang digunakan
 
-Pada project ini kamu akan memvisualisasikan data [Suhu Permukaan Bumi dari Tahun 1753 - 2015](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json) dengan data berformat JSON menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk Heat Map. Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan visualisasi yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
+Pada project ini kamu akan memvisualisasikan data [Suhu Permukaan Bumi Bulanan dari Tahun 1753 - 2015](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json) menggunakan HTML, CSS, dan [D3.js](https://d3js.org/) dalam bentuk Heat Map. Beberapa User Stories telah disediakan untuk membantu kamu menghasilkan visualisasi yang interaktif dan sesuai. Berikut adalah daftar User Storiesnya 👇
 
 ## User Stories:
 
