@@ -1,0 +1,28 @@
+body {
+  font-family: "inter", sans-serif;
+  padding-block: 1.4rem;
+}
+
+.cell {
+  stroke: #fff;
+}
+
+.cell:hover {
+  stroke: black;
+  stroke-width: 2;
+}
+
+path.domain {
+  stroke-width: 2;
+}
+
+#tooltip {
+  font-size: 0.8rem;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+}
+
+#legend rect {
+  height: 1rem;
+}
